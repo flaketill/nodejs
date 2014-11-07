@@ -1,0 +1,9 @@
+tecmilenio_tickets
+node_modules
+npm-debug.log
+*.pyc
+.jshintrc
+.eslintrc
+build
+dist
+temp
