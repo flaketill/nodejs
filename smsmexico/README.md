@@ -21,3 +21,10 @@ Install with `npm`:
 ```bash
 $ npm install smsmexico
 ```
+
+For install from github
+
+```bash
+$ npm install flaketill/smsmexico.git
+
+```
